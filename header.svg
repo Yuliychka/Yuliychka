@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="100%" height="120">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
+    .text-title {
+      font-family: 'Press Start 2P', monospace, cursive;
+      font-size: 22px;
+      font-weight: bold;
+      dominant-baseline: middle;
+      text-anchor: middle;
+    }
+    .text-sub {
+      font-family: 'Press Start 2P', monospace, cursive;
+      font-size: 16px;
+      dominant-baseline: middle;
+      text-anchor: middle;
+    }
+    .c-black { fill: #111827; }
+    .c-red { fill: #E11D48; }
+    
+    /* Support GitHub Dark Mode: Black letters auto-turn white in dark mode so they remain visible! */
+    @media (prefers-color-scheme: dark) {
+      .c-black { fill: #F9FAFB; }
+    }
+  </style>
+  
+  <!-- Line 1: Makhloufi Mohammed -->
+  <text x="50%" y="40" class="text-title">
+    <tspan class="c-black">M</tspan>
+    <tspan class="c-red">a</tspan>
+    <tspan class="c-black">k</tspan>
+    <tspan class="c-red">h</tspan>
+    <tspan class="c-black">l</tspan>
+    <tspan class="c-red">o</tspan>
+    <tspan class="c-black">u</tspan>
+    <tspan class="c-red">f</tspan>
+    <tspan class="c-black">i</tspan>
+    <tspan> </tspan>
+    <tspan class="c-red">M</tspan>
+    <tspan class="c-black">o</tspan>
+    <tspan class="c-red">h</tspan>
+    <tspan class="c-black">a</tspan>
+    <tspan class="c-red">m</tspan>
+    <tspan class="c-black">m</tspan>
+    <tspan class="c-red">e</tspan>
+    <tspan class="c-black">d</tspan>
+  </text>
+  
+  <!-- Line 2: Yuliychka -->
+  <text x="50%" y="85" class="text-sub">
+    <tspan class="c-black">Y</tspan>
+    <tspan class="c-red">u</tspan>
+    <tspan class="c-black">l</tspan>
+    <tspan class="c-red">i</tspan>
+    <tspan class="c-black">y</tspan>
+    <tspan class="c-red">c</tspan>
+    <tspan class="c-black">h</tspan>
+    <tspan class="c-red">k</tspan>
+    <tspan class="c-black">a</tspan>
+  </text>
+</svg>
