@@ -14,7 +14,9 @@
 
 <br />
 
-  👨‍💻 About Me
+## 👨‍💻 About Me
+
+> **Status:** 🚀 Currently building **Petverse**
 
 ```javascript
 const developer = {
@@ -24,7 +26,7 @@ const developer = {
     location: "Morocco 🇲🇦",
     code: ["HTML5", "CSS3", "PHP", "JS"],
     technologies: {
-        frontend: ["React", "React Native", "BOOTSTRAP", "HTML5/CSS3"],
+        frontend: ["React", "React Native", "Bootstrap", "HTML5/CSS3"],
         backend: ["Laravel", "Node.js"],
         database: ["MySQL"],
         tools: ["Git", "GitHub", "VSCode", "Postman"]
