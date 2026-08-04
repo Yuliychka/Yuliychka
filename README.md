@@ -8,7 +8,6 @@
   <br />
 
   <!-- 2. Your Custom Header Image -->
-![Uploading Gemini_Generated_Image_cyaom9cyaom9cyao.png…]()
-
+<img src="header.png" width="100%" alt="Header Image" />
 
 </div>
