@@ -1,14 +1,12 @@
 <div align="center">
 
-  <!-- Pixel Title Animation -->
-<p align="center">
-  <img src="./header.svg" alt="Makhloufi Mohammed - Yuliychka" width="100%" />
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FF2E4C&center=true&vCenter=true&width=650&height=50&lines=Makhloufi+Mohammed;Yuliychka" alt="Typing Name" />
+  </a>
 
   <br />
 
-  <!-- Header Image -->
-  <img src="header.png" width="60%" alt="Header Image" />
+  <img src="header.png" width="70%" alt="Header Banner" />
 
 </div>
 
