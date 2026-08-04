@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="./header.svg?v=1" alt="MAKHLOUFI MOHAMMED - YULIYCHKA" width="700" />
+  <img src="./header.svg?v=1" alt="MAKHLOUFI MOHAMMED - YULIYCHKA" width="900" />
 </h1>
 
   <br />
