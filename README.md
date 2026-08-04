@@ -8,7 +8,7 @@
   <br />
 
   <!-- 2. Your Custom Header Image -->
-  <img src="<img width="2816" height="1536" alt="Gemini_Generated_Image_cyaom9cyaom9cyao" src="https://github.com/user-attachments/assets/25473cc4-1e20-4dda-8d89-87aa7ffc69ca" />
-" width="100%" alt="Pixel Workstation Header" />
+![Uploading Gemini_Generated_Image_cyaom9cyaom9cyao.png…]()
+
 
 </div>
