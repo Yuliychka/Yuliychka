@@ -14,7 +14,7 @@
 
 <br />
 
-## 👨‍💻 About Me
+  👨‍💻 About Me
 
 ```javascript
 const developer = {
