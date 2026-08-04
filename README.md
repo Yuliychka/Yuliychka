@@ -1,8 +1,8 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FF2E4C&center=true&vCenter=true&width=650&height=50&lines=Makhloufi+Mohammed;Yuliychka" alt="Typing Name" />
-  </a>
+<h1 align="center">
+  <img src="./header.svg" alt="MAKHLOUFI MOHAMMED - YULIYCHKA" width="700" />
+</h1>
 
   <br />
 
