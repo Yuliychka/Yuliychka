@@ -12,6 +12,7 @@
       font-size: 20px;
       letter-spacing: 1.5px;
       dominant-baseline: central;
+      text-anchor: middle;
       stroke: #FFFFFF;
       stroke-width: 1.5px;
       paint-order: stroke fill;
@@ -22,52 +23,250 @@
     .c-black { fill: #000000; } /* Pitch Pure Black */
     .c-red { fill: #B20000; }  /* Vivid Real Blood Red */
 
-    .clip-rect-1 {
-      animation: type1 24s linear infinite;
-    }
     
-    .clip-rect-2 {
-      animation: type2 24s linear infinite;
-    }
-
-    /* Deliberate letter-by-letter typing (0.35s per letter) over 24s timeline */
-    @keyframes type1 {
-      0% { width: 0px; animation-timing-function: steps(18, end); }
-      28% { width: 720px; animation-timing-function: step-end; }
-      48% { width: 720px; animation-timing-function: steps(18, end); }
-      54% { width: 0px; animation-timing-function: step-end; }
-      100% { width: 0px; }
-    }
-
-    @keyframes type2 {
-      0%, 54% { width: 0px; animation-timing-function: steps(9, end); }
-      72% { width: 720px; animation-timing-function: step-end; }
-      92% { width: 720px; animation-timing-function: steps(9, end); }
-      98% { width: 0px; animation-timing-function: step-end; }
-      100% { width: 0px; }
-    }
+        .ch1_0 {
+          animation: ch1_0_anim 16s infinite;
+        }
+        @keyframes ch1_0_anim {
+          0%, 0.00% { opacity: 0; }
+          0.30%, 46.00% { opacity: 1; }
+          46.30%, 100% { opacity: 0; }
+        }
+        
+        .ch1_1 {
+          animation: ch1_1_anim 16s infinite;
+        }
+        @keyframes ch1_1_anim {
+          0%, 1.39% { opacity: 0; }
+          1.69%, 46.22% { opacity: 1; }
+          46.52%, 100% { opacity: 0; }
+        }
+        
+        .ch1_2 {
+          animation: ch1_2_anim 16s infinite;
+        }
+        @keyframes ch1_2_anim {
+          0%, 2.78% { opacity: 0; }
+          3.08%, 46.44% { opacity: 1; }
+          46.74%, 100% { opacity: 0; }
+        }
+        
+        .ch1_3 {
+          animation: ch1_3_anim 16s infinite;
+        }
+        @keyframes ch1_3_anim {
+          0%, 4.17% { opacity: 0; }
+          4.47%, 46.67% { opacity: 1; }
+          46.97%, 100% { opacity: 0; }
+        }
+        
+        .ch1_4 {
+          animation: ch1_4_anim 16s infinite;
+        }
+        @keyframes ch1_4_anim {
+          0%, 5.56% { opacity: 0; }
+          5.86%, 46.89% { opacity: 1; }
+          47.19%, 100% { opacity: 0; }
+        }
+        
+        .ch1_5 {
+          animation: ch1_5_anim 16s infinite;
+        }
+        @keyframes ch1_5_anim {
+          0%, 6.94% { opacity: 0; }
+          7.24%, 47.11% { opacity: 1; }
+          47.41%, 100% { opacity: 0; }
+        }
+        
+        .ch1_6 {
+          animation: ch1_6_anim 16s infinite;
+        }
+        @keyframes ch1_6_anim {
+          0%, 8.33% { opacity: 0; }
+          8.63%, 47.33% { opacity: 1; }
+          47.63%, 100% { opacity: 0; }
+        }
+        
+        .ch1_7 {
+          animation: ch1_7_anim 16s infinite;
+        }
+        @keyframes ch1_7_anim {
+          0%, 9.72% { opacity: 0; }
+          10.02%, 47.56% { opacity: 1; }
+          47.86%, 100% { opacity: 0; }
+        }
+        
+        .ch1_8 {
+          animation: ch1_8_anim 16s infinite;
+        }
+        @keyframes ch1_8_anim {
+          0%, 11.11% { opacity: 0; }
+          11.41%, 47.78% { opacity: 1; }
+          48.08%, 100% { opacity: 0; }
+        }
+        
+        .ch1_10 {
+          animation: ch1_10_anim 16s infinite;
+        }
+        @keyframes ch1_10_anim {
+          0%, 13.89% { opacity: 0; }
+          14.19%, 48.22% { opacity: 1; }
+          48.52%, 100% { opacity: 0; }
+        }
+        
+        .ch1_11 {
+          animation: ch1_11_anim 16s infinite;
+        }
+        @keyframes ch1_11_anim {
+          0%, 15.28% { opacity: 0; }
+          15.58%, 48.44% { opacity: 1; }
+          48.74%, 100% { opacity: 0; }
+        }
+        
+        .ch1_12 {
+          animation: ch1_12_anim 16s infinite;
+        }
+        @keyframes ch1_12_anim {
+          0%, 16.67% { opacity: 0; }
+          16.97%, 48.67% { opacity: 1; }
+          48.97%, 100% { opacity: 0; }
+        }
+        
+        .ch1_13 {
+          animation: ch1_13_anim 16s infinite;
+        }
+        @keyframes ch1_13_anim {
+          0%, 18.06% { opacity: 0; }
+          18.36%, 48.89% { opacity: 1; }
+          49.19%, 100% { opacity: 0; }
+        }
+        
+        .ch1_14 {
+          animation: ch1_14_anim 16s infinite;
+        }
+        @keyframes ch1_14_anim {
+          0%, 19.44% { opacity: 0; }
+          19.74%, 49.11% { opacity: 1; }
+          49.41%, 100% { opacity: 0; }
+        }
+        
+        .ch1_15 {
+          animation: ch1_15_anim 16s infinite;
+        }
+        @keyframes ch1_15_anim {
+          0%, 20.83% { opacity: 0; }
+          21.13%, 49.33% { opacity: 1; }
+          49.63%, 100% { opacity: 0; }
+        }
+        
+        .ch1_16 {
+          animation: ch1_16_anim 16s infinite;
+        }
+        @keyframes ch1_16_anim {
+          0%, 22.22% { opacity: 0; }
+          22.52%, 49.56% { opacity: 1; }
+          49.86%, 100% { opacity: 0; }
+        }
+        
+        .ch1_17 {
+          animation: ch1_17_anim 16s infinite;
+        }
+        @keyframes ch1_17_anim {
+          0%, 23.61% { opacity: 0; }
+          23.91%, 49.78% { opacity: 1; }
+          50.08%, 100% { opacity: 0; }
+        }
+        
+        .ch2_0 {
+          animation: ch2_0_anim 16s infinite;
+        }
+        @keyframes ch2_0_anim {
+          0%, 50.00% { opacity: 0; }
+          50.30%, 92.00% { opacity: 1; }
+          92.30%, 100% { opacity: 0; }
+        }
+        
+        .ch2_1 {
+          animation: ch2_1_anim 16s infinite;
+        }
+        @keyframes ch2_1_anim {
+          0%, 51.67% { opacity: 0; }
+          51.97%, 92.56% { opacity: 1; }
+          92.86%, 100% { opacity: 0; }
+        }
+        
+        .ch2_2 {
+          animation: ch2_2_anim 16s infinite;
+        }
+        @keyframes ch2_2_anim {
+          0%, 53.33% { opacity: 0; }
+          53.63%, 93.11% { opacity: 1; }
+          93.41%, 100% { opacity: 0; }
+        }
+        
+        .ch2_3 {
+          animation: ch2_3_anim 16s infinite;
+        }
+        @keyframes ch2_3_anim {
+          0%, 55.00% { opacity: 0; }
+          55.30%, 93.67% { opacity: 1; }
+          93.97%, 100% { opacity: 0; }
+        }
+        
+        .ch2_4 {
+          animation: ch2_4_anim 16s infinite;
+        }
+        @keyframes ch2_4_anim {
+          0%, 56.67% { opacity: 0; }
+          56.97%, 94.22% { opacity: 1; }
+          94.52%, 100% { opacity: 0; }
+        }
+        
+        .ch2_5 {
+          animation: ch2_5_anim 16s infinite;
+        }
+        @keyframes ch2_5_anim {
+          0%, 58.33% { opacity: 0; }
+          58.63%, 94.78% { opacity: 1; }
+          95.08%, 100% { opacity: 0; }
+        }
+        
+        .ch2_6 {
+          animation: ch2_6_anim 16s infinite;
+        }
+        @keyframes ch2_6_anim {
+          0%, 60.00% { opacity: 0; }
+          60.30%, 95.33% { opacity: 1; }
+          95.63%, 100% { opacity: 0; }
+        }
+        
+        .ch2_7 {
+          animation: ch2_7_anim 16s infinite;
+        }
+        @keyframes ch2_7_anim {
+          0%, 61.67% { opacity: 0; }
+          61.97%, 95.89% { opacity: 1; }
+          96.19%, 100% { opacity: 0; }
+        }
+        
+        .ch2_8 {
+          animation: ch2_8_anim 16s infinite;
+        }
+        @keyframes ch2_8_anim {
+          0%, 63.33% { opacity: 0; }
+          63.63%, 96.44% { opacity: 1; }
+          96.74%, 100% { opacity: 0; }
+        }
+        
   </style>
 
-  <defs>
-    <clipPath id="clip1">
-      <rect class="clip-rect-1" x="0" y="0" width="0" height="100" />
-    </clipPath>
-    <clipPath id="clip2">
-      <rect class="clip-rect-2" x="0" y="0" width="0" height="100" />
-    </clipPath>
-  </defs>
+  <!-- Line 1: MAKHLOUFI MOHAMMED -->
+  <text x="50%" y="50" class="pixel-text">
+    <tspan class="c-black ch1_0">M</tspan><tspan class="c-red ch1_1">A</tspan><tspan class="c-black ch1_2">K</tspan><tspan class="c-red ch1_3">H</tspan><tspan class="c-black ch1_4">L</tspan><tspan class="c-red ch1_5">O</tspan><tspan class="c-black ch1_6">U</tspan><tspan class="c-red ch1_7">F</tspan><tspan class="c-black ch1_8">I</tspan><tspan>&#160;</tspan><tspan class="c-black ch1_10">M</tspan><tspan class="c-red ch1_11">O</tspan><tspan class="c-black ch1_12">H</tspan><tspan class="c-red ch1_13">A</tspan><tspan class="c-black ch1_14">M</tspan><tspan class="c-red ch1_15">M</tspan><tspan class="c-black ch1_16">E</tspan><tspan class="c-red ch1_17">D</tspan>
+  </text>
 
-  <!-- Line 1: MAKHLOUFI MOHAMMED (centered using x=40) -->
-  <g clip-path="url(#clip1)">
-    <text x="40" y="50" class="pixel-text" text-anchor="start">
-      <tspan class="c-black">M</tspan><tspan class="c-red">A</tspan><tspan class="c-black">K</tspan><tspan class="c-red">H</tspan><tspan class="c-black">L</tspan><tspan class="c-red">O</tspan><tspan class="c-black">U</tspan><tspan class="c-red">F</tspan><tspan class="c-black">I</tspan><tspan>&#160;</tspan><tspan class="c-black">M</tspan><tspan class="c-red">O</tspan><tspan class="c-black">H</tspan><tspan class="c-red">A</tspan><tspan class="c-black">M</tspan><tspan class="c-red">M</tspan><tspan class="c-black">E</tspan><tspan class="c-red">D</tspan>
-    </text>
-  </g>
-
-  <!-- Line 2: YULIYCHKA (centered using x=240) -->
-  <g clip-path="url(#clip2)">
-    <text x="240" y="50" class="pixel-text" text-anchor="start">
-      <tspan class="c-black">Y</tspan><tspan class="c-red">U</tspan><tspan class="c-black">L</tspan><tspan class="c-red">I</tspan><tspan class="c-black">Y</tspan><tspan class="c-red">C</tspan><tspan class="c-black">H</tspan><tspan class="c-red">K</tspan><tspan class="c-black">A</tspan>
-    </text>
-  </g>
+  <!-- Line 2: YULIYCHKA -->
+  <text x="50%" y="50" class="pixel-text">
+    <tspan class="c-black ch2_0">Y</tspan><tspan class="c-red ch2_1">U</tspan><tspan class="c-black ch2_2">L</tspan><tspan class="c-red ch2_3">I</tspan><tspan class="c-black ch2_4">Y</tspan><tspan class="c-red ch2_5">C</tspan><tspan class="c-black ch2_6">H</tspan><tspan class="c-red ch2_7">K</tspan><tspan class="c-black ch2_8">A</tspan>
+  </text>
 </svg>
