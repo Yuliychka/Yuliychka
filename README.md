@@ -11,3 +11,24 @@
   <img src="header.png" width="60%" alt="Header Image" />
 
 </div>
+
+<br />
+
+## 👨‍💻 About Me
+
+```javascript
+const developer = {
+    name: "Makhloufi Mohammed",
+    nickname: "Yuliychka",
+    role: "Full Stack Web & Mobile Developer",
+    location: "Morocco 🇲🇦",
+    code: ["JavaScript", "TypeScript", "PHP", "Dart"],
+    technologies: {
+        frontend: ["React", "React Native", "TailwindCSS", "HTML5/CSS3"],
+        backend: ["Laravel", "Node.js", "Express"],
+        database: ["MySQL", "PostgreSQL", "MongoDB"],
+        tools: ["Git", "GitHub", "Docker", "Figma"]
+    },
+    currentFocus: "Building modern web apps & mobile solutions",
+    philosophy: "Clean code, responsive design, and smooth user experience."
+};
