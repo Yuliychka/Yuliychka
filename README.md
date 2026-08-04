@@ -1,13 +1,13 @@
 <div align="center">
 
-  <!-- 1. Typing Animation: Name then Nickname -->
+  <!-- 1. Pixel Art Animated Title -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Makhloufi+Mohammed;Yuliychka" alt="Typing Name Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=1000&color=FF2E4C&center=true&vCenter=true&width=600&height=70&lines=Makhloufi+Mohammed;Yuliychka" alt="Typing Pixel Animation" />
   </a>
 
   <br />
 
-  <!-- 2. Your Custom Header Image -->
-<img src="header.png" width="100%" alt="Header Image" />
+  <!-- 2. Custom Header Image (Resized) -->
+  <img src="header.png" width="70%" alt="Header Image" />
 
 </div>
