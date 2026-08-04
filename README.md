@@ -22,13 +22,13 @@ const developer = {
     nickname: "Yuliychka",
     role: "Full Stack Web & Mobile Developer",
     location: "Morocco 🇲🇦",
-    code: ["JavaScript", "TypeScript", "PHP", "Dart"],
+    code: ["HTML5", "CSS3", "PHP", "JS"],
     technologies: {
-        frontend: ["React", "React Native", "TailwindCSS", "HTML5/CSS3"],
-        backend: ["Laravel", "Node.js", "Express"],
-        database: ["MySQL", "PostgreSQL", "MongoDB"],
-        tools: ["Git", "GitHub", "Docker", "Figma"]
+        frontend: ["React", "React Native", "BOOTSTRAP", "HTML5/CSS3"],
+        backend: ["Laravel", "Node.js"],
+        database: ["MySQL"],
+        tools: ["Git", "GitHub", "VSCode", "Postman"]
     },
-    currentFocus: "Building modern web apps & mobile solutions",
+    currentFocus: "Building modern web apps & mobile solutions [Petverse]",
     philosophy: "Clean code, responsive design, and smooth user experience."
 };
