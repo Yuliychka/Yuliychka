@@ -8,6 +8,6 @@
   <br />
 
   <!-- Header Image -->
-  <img src="header.png" width="70%" alt="Header Image" />
+  <img src="header.png" width="60%" alt="Header Image" />
 
 </div>
