@@ -42,6 +42,14 @@ const developer = {
 ```
 
 <br />
+
+<p align="center">
+  <a href="#my-works">
+    <img src="https://img.shields.io/badge/👇%20See%20My%20Works-E11D48?style=for-the-badge&logoColor=white" alt="See My Works" />
+  </a>
+</p>
+
+<br />
 <hr />
 <br />
 
@@ -128,6 +136,50 @@ const developer = {
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yuliychka&color=E11D48&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile Views" />
 </p>
+
+<br />
+<hr />
+<br />
+
+<!-- Section 7: My Works -->
+<h2 id="my-works">💼 My Works</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <br />
+      <a href="#"><img src="https://img.shields.io/badge/Project%201-Coming%20Soon-151515?style=for-the-badge&labelColor=E11D48" /></a>
+      <br /><sub><b>🌐 Web Application</b></sub><br /><br />
+    </td>
+    <td align="center" width="33%">
+      <br />
+      <a href="#"><img src="https://img.shields.io/badge/Project%202-Coming%20Soon-151515?style=for-the-badge&labelColor=E11D48" /></a>
+      <br /><sub><b>📱 Mobile App (PlayStore)</b></sub><br /><br />
+    </td>
+    <td align="center" width="33%">
+      <br />
+      <a href="#"><img src="https://img.shields.io/badge/Project%203-Coming%20Soon-151515?style=for-the-badge&labelColor=E11D48" /></a>
+      <br /><sub><b>💻 Full Stack Solution</b></sub><br /><br />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <br />
+      <a href="#"><img src="https://img.shields.io/badge/Project%204-Coming%20Soon-151515?style=for-the-badge&labelColor=E11D48" /></a>
+      <br /><sub><b>⚡ SaaS Platform</b></sub><br /><br />
+    </td>
+    <td align="center" width="33%">
+      <br />
+      <a href="#"><img src="https://img.shields.io/badge/Project%205-Coming%20Soon-151515?style=for-the-badge&labelColor=E11D48" /></a>
+      <br /><sub><b>📱 Mobile App (AppStore)</b></sub><br /><br />
+    </td>
+    <td align="center" width="33%">
+      <br />
+      <a href="#"><img src="https://img.shields.io/badge/Project%206-Coming%20Soon-151515?style=for-the-badge&labelColor=E11D48" /></a>
+      <br /><sub><b>🎨 UI/UX & Web Portal</b></sub><br /><br />
+    </td>
+  </tr>
+</table>
 
 <br />
 <hr />
