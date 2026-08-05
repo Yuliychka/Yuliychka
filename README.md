@@ -143,11 +143,10 @@ const developer = {
 ## My Works
 
 <p align="center">
-  <img src="./my_works.svg" alt="My Works" width="100%" />
-</p>
-
-<p align="center">
-  <sub>🔴 <b>Live now:</b> &nbsp;<a href="https://makhloufi-mohammed.idsmobile.com/" target="_blank"><img src="https://img.shields.io/badge/PC%20Part%20Store-🖥️%20Visit%20Website-E11D48?style=flat-square&logoColor=white" alt="PC Part Store" /></a></sub>
+  <img src="./my_works.svg" alt="My Works" width="800" usemap="#works-map" />
+  <map name="works-map">
+    <area shape="rect" coords="540,10,780,125" href="https://makhloufi-mohammed.idsmobile.com/" target="_blank" alt="PC Part Store" />
+  </map>
 </p>
 
 <br />
