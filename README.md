@@ -44,8 +44,8 @@ const developer = {
 <br />
 
 <p align="center">
-  <a href="#my-works">
-    <img src="https://img.shields.io/badge/👇%20See%20My%20Works-E11D48?style=for-the-badge&logoColor=white" alt="See My Works" />
+  <a href="#-my-works">
+    <img src="https://img.shields.io/badge/%F0%9F%91%87%20See%20My%20Works-E11D48?style=for-the-badge&logoColor=white" alt="See My Works" />
   </a>
 </p>
 
@@ -142,8 +142,7 @@ const developer = {
 <br />
 
 <!-- Section 7: My Works -->
-<a name="my-works" id="my-works"></a>
-<h2 align="center">💼 My Works</h2>
+## 💼 My Works
 
 <table align="center" width="100%">
   <tr>
