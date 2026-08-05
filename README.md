@@ -142,11 +142,31 @@ const developer = {
 <!-- Section 7: My Works -->
 ## My Works
 
+<!-- Row 1 -->
 <p align="center">
-  <img src="./my_works.svg" alt="My Works" width="800" usemap="#works-map" />
-  <map name="works-map">
-    <area shape="rect" coords="540,10,780,125" href="https://makhloufi-mohammed.idsmobile.com/" target="_blank" alt="PC Part Store" />
-  </map>
+  <img src="https://img.shields.io/badge/Trackium-📱%20Coming%20Soon-161b22?style=for-the-badge&labelColor=3d444d&color=161b22" alt="Trackium" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Trackium%20Web-🌐%20Coming%20Soon-161b22?style=for-the-badge&labelColor=3d444d&color=161b22" alt="Trackium Web" />
+  &nbsp;&nbsp;
+  <a href="https://makhloufi-mohammed.idsmobile.com/" target="_blank"><img src="https://img.shields.io/badge/PC%20Part%20Store-🖥️%20Visit%20Website-161b22?style=for-the-badge&labelColor=E11D48&color=161b22" alt="PC Part Store" /></a>
+</p>
+
+<!-- Row 2 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Perfumerie-🌸%20Coming%20Soon-161b22?style=for-the-badge&labelColor=3d444d&color=161b22" alt="Perfumerie" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PetVerse-🌐%20Coming%20Soon-161b22?style=for-the-badge&labelColor=3d444d&color=161b22" alt="PetVerse" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PetVerse%20Mobile-📱%20Coming%20Soon-161b22?style=for-the-badge&labelColor=3d444d&color=161b22" alt="PetVerse Mobile" />
+</p>
+
+<!-- Row 3 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Lamassat%20Khadija-📱%20Coming%20Soon-161b22?style=for-the-badge&labelColor=3d444d&color=161b22" alt="Lamassat Khadija" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Hikari-🌐%20Coming%20Soon-161b22?style=for-the-badge&labelColor=3d444d&color=161b22" alt="Hikari" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Hikari%20Mobile-📱%20Coming%20Soon-161b22?style=for-the-badge&labelColor=3d444d&color=161b22" alt="Hikari Mobile" />
 </p>
 
 <br />
