@@ -142,7 +142,8 @@ const developer = {
 <br />
 
 <!-- Section 7: My Works -->
-<h2 id="my-works">💼 My Works</h2>
+<a name="my-works" id="my-works"></a>
+<h2 align="center">💼 My Works</h2>
 
 <table align="center" width="100%">
   <tr>
