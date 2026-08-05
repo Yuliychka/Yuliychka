@@ -94,12 +94,39 @@ const developer = {
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Yuliychka&title_color=E11D48&text_color=ffffff&icon_color=E11D48&bg_color=0d1117&border_color=E11D48&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Yuliychka&title_color=E11D48&text_color=ffffff&icon_color=E11D48&bg_color=0d1117&border_color=E11D48&show_icons=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="195" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Yuliychka&title_color=E11D48&text_color=ffffff&subtext_color=ffffff&icon_color=E11D48&bg_color=0d1117&border_color=E11D48&show_icons=true&include_all_commits=true&count_private=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Yuliychka&theme=dark&background=0d1117&border=E11D48&stroke=E11D48&ring=E11D48&fire=E11D48&currStreakNum=ffffff&sideNums=ffffff&sideLabels=E11D48&dates=8b949e" alt="GitHub Streak" height="195" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Yuliychka&title_color=E11D48&text_color=ffffff&subtext_color=ffffff&icon_color=E11D48&bg_color=0d1117&border_color=E11D48&include_all_commits=true&count_private=true&layout=donut" height="170" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=Yuliychka&theme=dark&background=0d1117&border=E11D48&stroke=E11D48&ring=E11D48&fire=E11D48&currStreakNum=ffffff&sideNums=ffffff&sideLabels=E11D48&dates=ffffff" height="170" />
+</p>
+
+<br />
+<hr />
+<br />
+
+<!-- Section 5: GitHub Trophies -->
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Yuliychka&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+<br />
+<hr />
+<br />
+
+<!-- Section 6: Dev Quote & Views Counter -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yuliychka&color=E11D48&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile Views" />
 </p>
 
 <br />
